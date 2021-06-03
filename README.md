@@ -13,7 +13,7 @@
 <br/>
 - At depth N: Same rules.
 
-##### The problem is solved in the code and the results are shown as a sample below:
+##### The problem is solved in the code and the results are shown as a sample below: (I have done this with JavaScript for logic and Node.js for folder and file creating)
 
 ![](screenshots/ss-code.png)
 ![](screenshots/ss-path.png)
